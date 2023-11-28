@@ -1,0 +1,18 @@
+# ninja log v5
+952	1501	1700642992282967595	CMakeFiles/RGZ_2ssem.dir/Read_write_control.cpp.o	4b06618b0f12d419
+4	2613	1701106565336284618	CMakeFiles/RGZ_2ssem.dir/System_security_check.cpp.o	c3dcd04aece38efc
+2630	3960	1701106566684327376	RGZ_2ssem	4d598f4adc0d2f11
+4	951	1700642991731877454	CMakeFiles/RGZ_2ssem.dir/fool_test.cpp.o	c6c106c1e8fcb816
+4	690	1701095858777305357	CMakeFiles/RGZ_2ssem.dir/cipher_Polybius_Square.cpp.o	b49ee0854c1d76cf
+4	2630	1701106565353573410	CMakeFiles/RGZ_2ssem.dir/Menu_system_code.cpp.o	65af60a16fd77e36
+4	806	1701088219013182676	CMakeFiles/RGZ_2ssem.dir/cipher_Hill.cpp.o	1802cbb6fc2ad3f0
+4	719	1701095117961805898	CMakeFiles/RGZ_2ssem.dir/cipher_Vigener.cpp.o	b5ba14b7f0a3dce7
+4	2828	1700931055583114795	CMakeFiles/RGZ_2ssem.dir/Preparation_for_cipher.cpp.o	8ce68f195efd8c97
+4	2735	1700931055489763027	CMakeFiles/RGZ_2ssem.dir/main.cpp.o	ec31078f04b43bb3
+5	857	1701187264885042662	CMakeFiles/RGZ_2ssem.dir/main.cpp.o	ec31078f04b43bb3
+6	858	1701187264889902995	CMakeFiles/RGZ_2ssem.dir/System_security_check.cpp.o	c3dcd04aece38efc
+5	927	1701187264959638311	CMakeFiles/RGZ_2ssem.dir/cipher_Hill.cpp.o	1802cbb6fc2ad3f0
+5	935	1701187264966693221	CMakeFiles/RGZ_2ssem.dir/cipher_Polybius_Square.cpp.o	b49ee0854c1d76cf
+5	937	1701187264969655377	CMakeFiles/RGZ_2ssem.dir/cipher_Vigener.cpp.o	b5ba14b7f0a3dce7
+6	986	1701187265020220009	CMakeFiles/RGZ_2ssem.dir/Preparation_for_cipher.cpp.o	8ce68f195efd8c97
+987	1160	1701187265193640354	RGZ_2ssem	4d598f4adc0d2f11
